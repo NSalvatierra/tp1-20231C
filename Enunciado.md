@@ -10,5 +10,6 @@ Ya que desarrollaste el TP0, ahora vamos a ir un paso mas allá. Vamos a agarrar
 - Se agrega lectura de archivos. Se incluyen algunos archivos de ejemplo para que veas el formato.
 - Los pokemon ahora se almacenan como un vector de punteros. Recordá liberar cada uno de los pokemon al destruir el hospital.
 - Recordá que (como se dijo en clase) no se permite el uso de `qsort`.
+- Para simplificar vamos a suponer que las líneas de los archivos a leer no tienen mas de 30 caracteres.
 
 No te olvides de incluir en el informe todas las suposiciones que hayas tomado (cosas que no queden claras en el enunciado por ejemplo) y diagramas de memoria explicando cómo se almacenan los datos.
